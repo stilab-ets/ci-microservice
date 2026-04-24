@@ -1,0 +1,11 @@
+project_label,repo_full_name,repo_url,primary_language,default_branch_api,sloc_latest,sloc_display,total_workflow_runs,total_workflow_runs_display,workflow_lifetime_days,median_duration_min,median_absolute_deviation_min,ms_package_exact_match,ms_package_loc,ms_package_total_commits,ms_package_total_contributors,ms_package_age_days
+ouds-android,Orange-OpenSource/ouds-android,https://github.com/Orange-OpenSource/ouds-android,Kotlin,develop,652924,653k,2477,"2,477",405.3,12.2,1.83,False,,,,
+bmad-ecosystem,bmad-sim/bmad-ecosystem,https://github.com/bmad-sim/bmad-ecosystem,Wolfram Language,main,2125201,2.13M,1096,"1,096",407.9,17.55,1.4,False,,,,
+ccpay-payment-app,hmcts/ccpay-payment-app,https://github.com/hmcts/ccpay-payment-app,Java,master,86697,86.7k,2198,"2,198",401.6,5.1,1.45,True,102767,9983,58,2610
+FilterLists,collinbarrett/FilterLists,https://github.com/collinbarrett/FilterLists,C#,main,273975,274k,1124,"1,124",408.7,1.77,0.28,True,681624,7759,69,2971
+daos,daos-stack/daos,https://github.com/daos-stack/daos,C,master,1290768,1.29M,8672,"8,672",419.2,31.78,7.89,True,1615547,11039,105,3045
+jod-yksilo-ui,Opetushallitus/jod-yksilo-ui,https://github.com/Opetushallitus/jod-yksilo-ui,TypeScript,main,40596,40.6k,1627,"1,627",409.0,4.18,1.13,False,,,,
+m2os,m2Giles/m2os,https://github.com/m2Giles/m2os,Shell,main,2794,2.8k,1519,"1,519",408.7,29.83,13.9,False,,,,
+Bruce,pr3y/Bruce,https://github.com/pr3y/Bruce,C++,main,116468,116k,781,781,323.7,5.03,0.33,False,,,,
+radare2,radareorg/radare2,https://github.com/radareorg/radare2,C,master,1046005,1.05M,4497,"4,497",409.4,22.73,11.22,False,,,,
+crates.io,rust-lang/crates.io,https://github.com/rust-lang/crates.io,Rust,main,80501,80.5k,7082,"7,082",410.1,7.79,2.66,True,86644,19146,307,3865
